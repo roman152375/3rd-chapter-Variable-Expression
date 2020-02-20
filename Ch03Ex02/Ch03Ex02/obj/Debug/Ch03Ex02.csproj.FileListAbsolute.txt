@@ -1,0 +1,6 @@
+C:\Roman Visual Studio\Ch03Ex02\Ch03Ex02\bin\Debug\Ch03Ex02.exe.config
+C:\Roman Visual Studio\Ch03Ex02\Ch03Ex02\bin\Debug\Ch03Ex02.exe
+C:\Roman Visual Studio\Ch03Ex02\Ch03Ex02\bin\Debug\Ch03Ex02.pdb
+C:\Roman Visual Studio\Ch03Ex02\Ch03Ex02\obj\Debug\Ch03Ex02.csprojAssemblyReference.cache
+C:\Roman Visual Studio\Ch03Ex02\Ch03Ex02\obj\Debug\Ch03Ex02.exe
+C:\Roman Visual Studio\Ch03Ex02\Ch03Ex02\obj\Debug\Ch03Ex02.pdb
